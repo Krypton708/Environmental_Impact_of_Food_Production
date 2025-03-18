@@ -1,1 +1,1 @@
-# -Environment-Impact-of-Food-Production
+# Environment-Impact-of-Food-Production
