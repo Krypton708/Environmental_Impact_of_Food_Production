@@ -1,8 +1,8 @@
-# **Environmental Impact of Food Porduction**  
+# **Environmental Impact of Food Production**  
 ### *Analyzing the Environmental Impact of Food Production*  
 
 ## **Project Overview**  
-Food production is a major driver of environmental challenges, including climate change, deforestation, water scarcity, and biodiversity loss. This project aims to analyze the environmental footprint of various food products using data science techniques.  
+Food production is a major driver of environmental challenges, including climate change, deforestation, water scarcity, and biodiversity loss. This project aims to analyze the ecological footprint of various food products using data science techniques.  
 
 The analysis covers:  
 - **Carbon emissions** across different food categories.  
